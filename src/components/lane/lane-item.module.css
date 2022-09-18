@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  background-color: navy;
+  width: 80%;
+  color: whitesmoke;
+  border-left: 20px solid dodgerblue;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+
+
+

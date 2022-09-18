@@ -1,0 +1,35 @@
+.boardMain {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  color: black;
+}
+
+.todo, .inProgress, .review, .done {
+  height: 400px;
+  width: 300px;
+  overflow: scroll;
+}
+
+.boardMain header {
+  display: flex;
+  height: 50px;
+  border-bottom: 1px solid black;
+  justify-content: center; }
+
+.todo {
+  margin-right: 20px;
+}
+
+.inProgress {
+  margin-right: 20px;
+}
+
+.review {
+  margin-right: 20px;
+}
+
+.done {
+
+}
+
